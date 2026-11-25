@@ -21,14 +21,15 @@ Now I'm building the skills to automate what I used to do by hand: containers, C
 
 | Area | Tools |
 | --- | --- |
-| Cloud | <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" title="AWS" /> <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Microsoft Azure" title="Microsoft Azure" /> |
+| Cloud | <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" title="AWS" /> <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Microsoft Azure" title="Microsoft Azure" /> <img src="https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logoColor=white" height="28" alt="Microsoft Entra ID (identity, MFA, Conditional Access)" title="Microsoft Entra ID (identity, MFA, Conditional Access)" /> |
 | Containers and orchestration | <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" title="Docker" /> <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes" title="Kubernetes" /> <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" height="28" alt="Podman (rootless containers)" title="Podman (rootless containers)" /> |
 | CI/CD and IaC | <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions" title="GitHub Actions" /> <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="Terraform" title="Terraform" /> <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git" /> <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub" /> |
 | Monitoring | <img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="Prometheus" title="Prometheus" /> <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="Grafana" title="Grafana" /> <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" height="28" alt="Grafana Loki (logs)" title="Grafana Loki (logs)" /> |
 | Systems and virtualization | <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" title="Linux" /> <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="Ubuntu" title="Ubuntu" /> <img src="https://skillicons.dev/icons?i=windows" height="40" alt="Windows Server" title="Windows Server" /> <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="PowerShell" title="PowerShell" /> <img src="https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white" height="28" alt="Rocky Linux" title="Rocky Linux" /> <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" height="28" alt="VMware" title="VMware" /> <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" height="28" alt="Proxmox VE" title="Proxmox VE" /> |
-| Databases | <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" title="MySQL" /> |
+| Databases | <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" title="MySQL" /> <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" title="PostgreSQL" /> <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase" title="Supabase" /> |
 | Networking, security and backup | <img src="https://img.shields.io/badge/Sophos_Firewall-005BC8?style=for-the-badge&logoColor=white" height="28" alt="Sophos Firewall" title="Sophos Firewall" /> <img src="https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white" height="28" alt="Ubiquiti UniFi" title="Ubiquiti UniFi" /> <img src="https://img.shields.io/badge/Veeam-00B336?style=for-the-badge&logo=veeam&logoColor=white" height="28" alt="Veeam Backup & Replication" title="Veeam Backup & Replication" /> |
-| Code | <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" title="Python" /> <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" title="Bash" /> <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" title="Next.js" /> <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase" title="Supabase" /> <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".NET" title=".NET" /> |
+| Hosting and deployment | <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" title="Vercel" /> <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" height="28" alt="Railway" title="Railway" /> |
+| Code | <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" title="Python" /> <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" title="Bash" /> <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" title="Next.js" /> <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".NET" title=".NET" /> |
 
 ## Certifications
 
@@ -55,13 +56,4 @@ Now I'm building the skills to automate what I used to do by hand: containers, C
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/feliciano-gon%C3%A7alves/) · Portuguese and English
-| Period | Role |
-| --- | --- |
-| 2026 to now | Systems Administrator, Managed Service Provider |
-| Ongoing | Freelance web development (Next.js, Supabase) |
-| 10+ years | Industrial automation and electronics: machine vision, drives, maintenance |
-
-## Contact
-
-[LinkedIn](LINK_LINKEDIN) · Portuguese and English
+[LinkedIn]([https://www.linkedin.com/in/feliciano-gonçalves) · Portuguese and English
